@@ -1,0 +1,17 @@
+torch>=2.0
+transformers>=4.40
+peft>=0.10
+bitsandbytes>=0.43
+datasets>=2.19
+accelerate>=0.30
+deepspeed>=0.14
+scikit-learn>=1.4
+pandas>=2.0
+pyarrow>=15.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+tqdm>=4.66
+python-dotenv>=1.0
+sentence-transformers>=3.0
+hdbscan>=0.8.33
